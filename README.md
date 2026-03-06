@@ -9,7 +9,7 @@
 
 Um Simples aplicativo para Hobby's!
 
-<img src="https://github.com/umastrodev12/HobbyTwo/blob/main/assets/hobbytwo_banner.png" alt="Banner do Aplicativo" wdith="600">
+<img src="https://github.com/umastrodev12/H0bbyTw0/blob/main/assets/hobbytwo_banner.png" alt="Banner do Aplicativo" wdith="600">
 
 ## ❓ O que é o HobbyTwo?
 ### 😃 Explicação Simples
