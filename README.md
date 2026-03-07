@@ -21,7 +21,7 @@ Eu definitivamente só tive a ideia e fiz esse app só por diversão mesmo :D
 ### 🤔 Por quê Hobby's?
 Sabe, hoje em dia não existe aplicativos especificados para "Hobby's e Gostos de Usuários", então decidi criar o meu.
 
-Apesar que eu não tenho muita experiência mas gosto da linguagem **Kotlin**, Quero fazer projetos inovadores e legais para as pessoas :D
+
 
 
 ## 🌐 Features
